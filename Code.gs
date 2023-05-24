@@ -10,8 +10,8 @@ class TeamObject {
 
   getData() {};
 };
-
-
+ggnn
+vjvjvbvbns
 function myFunction() {
   
 }
