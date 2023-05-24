@@ -11,7 +11,6 @@ class TeamObject {
   getData() {};
 };
 
-
 function myFunction() {
-  
+  console.log("Hello world");  
 }
